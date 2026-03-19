@@ -3137,8 +3137,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld pixels"
+            "state" : "translated",
+            "value" : "%lld Pixel"
           }
         },
         "el" : {
@@ -5972,8 +5972,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "App Expose"
+            "state" : "translated",
+            "value" : "Exposé"
           }
         },
         "el" : {
@@ -6377,7 +6377,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maustasten Aktionen zuweisen"
+            "value" : "Aktionen für Maustasten zuweisen"
           }
         },
         "el" : {
@@ -6639,7 +6639,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ဘယ်ဘက်ခလုတ်ကို modifier keys မရှိဘဲ လုပ်ဆောင်ခြင်းကို ခွင့်မပြုပါ။."
+            "value" : "ဘယ်ဘက်ခလုတ်ကို modifier keys မရှိဘဲ လုပ်ဆောင်ခြင်းကို ခွင့်မပြုပါ။."
           }
         },
         "nb-NO" : {
@@ -9266,7 +9266,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "속도 변경"
+            "value" : "속도 변경"
           }
         },
         "my" : {
@@ -14261,8 +14261,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Distance must be \"auto\" or a number or a string representing value and unit"
+            "state" : "translated",
+            "value" : "Abstand muss \"auto\" oder eine Zahl oder eine Zeichenkette mit einem Wert oder einer Einheit sein"
           }
         },
         "el" : {
@@ -14867,8 +14867,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable gesture button"
+            "state" : "translated",
+            "value" : "Gesten-Button aktivieren"
           }
         },
         "el" : {
@@ -15332,7 +15332,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "အသေးစိတ် မှတ်တမ်းတင်ခြင်းကို ဖွင့်ရန်"
+            "value" : "အသေးစိတ် မှတ်တမ်းတင်ခြင်းကို ဖွင့်ရန်"
           }
         },
         "nb-NO" : {
@@ -18301,8 +18301,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Gesture Actions"
+            "state" : "translated",
+            "value" : "Gesten-Aktionen"
           }
         },
         "el" : {
@@ -18705,8 +18705,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold the button and drag to trigger gestures. Drag at least %lld pixels in one direction."
+            "state" : "translated",
+            "value" : "Halte die Taste gedrückt und ziehe, um Gesten auszulösen. Ziehe mindestens %lld Pixel in eine Richtung."
           }
         },
         "el" : {
@@ -19581,7 +19581,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "သင်သည် ချို့ယွင်းချက်တစ်ခုကို report လုပ်မည့်အခါ မှတ်တမ်းများကို ပူးတွဲ၍ တင်ပါက အထောက်အကူပြုမည်ဖြစ်သည်။."
+            "value" : "သင်သည် ချို့ယွင်းချက်တစ်ခုကို report လုပ်မည့်အခါ မှတ်တမ်းများကို ပူးတွဲ၍ တင်ပါက အထောက်အကူပြုမည်ဖြစ်သည်။."
           }
         },
         "nb-NO" : {
@@ -19992,7 +19992,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "အချိန်တစ်ခုအတွင်း ခဏခဏ နှိပ်ခြင်းကို ကန့်သန့်ရန်။."
+            "value" : "အချိန်တစ်ခုအတွင်း ခဏခဏ နှိပ်ခြင်းကို ကန့်သန့်ရန်။."
           }
         },
         "nb-NO" : {
@@ -20800,7 +20800,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ထည့်သွင်းပြီးသည်"
+            "value" : "ထည့်သွင်းပြီးသည်"
           }
         },
         "nb-NO" : {
@@ -23022,7 +23022,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "LinearMouse သည် Accessibility permission ကို ဖွင့်ပေးရန်လိုအပ်ပါသည်"
+            "value" : "LinearMouse သည် Accessibility permission ကို ဖွင့်ပေးရန်လိုအပ်ပါသည်"
           }
         },
         "nb-NO" : {
@@ -23224,7 +23224,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "အချက်အလက် ထုတ်ယူကိရိယာများ နှင့် ရှာဖွေခြင်း"
+            "value" : "အချက်အလက် ထုတ်ယူကိရိယာများ နှင့် ရှာဖွေခြင်း"
           }
         },
         "nb-NO" : {
@@ -23769,8 +23769,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Middle Button"
+            "state" : "translated",
+            "value" : "Mittlere Taste"
           }
         },
         "el" : {
@@ -26456,7 +26456,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "အသံပိတ် / အသံဖွင့်ရန်"
+            "value" : "အသံပိတ် / အသံဖွင့်ရန်"
           }
         },
         "nb-NO" : {
@@ -27405,8 +27405,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "None"
+            "state" : "translated",
+            "value" : "nichts"
           }
         },
         "el" : {
@@ -28072,7 +28072,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accessibility ကိုဖွင့်ရန်"
+            "value" : "Accessibility ကိုဖွင့်ရန်"
           }
         },
         "nb-NO" : {
@@ -28213,8 +28213,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other App…"
+            "state" : "translated",
+            "value" : "Andere App…"
           }
         },
         "el" : {
@@ -28415,8 +28415,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Executable…"
+            "state" : "translated",
+            "value" : "Andere ausführbare Datei…"
           }
         },
         "el" : {
@@ -28887,7 +28887,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ဖွင့်ရန် / ရပ်ရန်"
+            "value" : "ဖွင့်ရန် / ရပ်ရန်"
           }
         },
         "nb-NO" : {
@@ -29634,8 +29634,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press and hold a button while dragging to trigger gestures like switching desktop spaces or opening Mission Control."
+            "state" : "translated",
+            "value" : "Halte eine Taste gedrückt, während du den Mauszeiger ziehst, um Gesten wie das Wechseln zwischen Spaces oder das Öffnen von Mission Control auszulösen."
           }
         },
         "el" : {
@@ -30038,8 +30038,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous Space"
+            "state" : "translated",
+            "value" : "Vorheriger Space"
           }
         },
         "el" : {
@@ -31311,7 +31311,7 @@
         "my" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ဖိထားသည့် အချိန်တွင် ခဏခဏ လုပ်ဆောင်ရန်"
+            "value" : "ဖိထားသည့် အချိန်တွင် ခဏခဏ လုပ်ဆောင်ရန်"
           }
         },
         "nb-NO" : {
@@ -37923,8 +37923,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Desktop"
+            "state" : "translated",
+            "value" : "Desktop anzeigen"
           }
         },
         "el" : {
@@ -39337,8 +39337,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Swipe down"
+            "state" : "translated",
+            "value" : "nach unten wischen"
           }
         },
         "el" : {
@@ -39539,8 +39539,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Swipe left"
+            "state" : "translated",
+            "value" : "nach links wischen"
           }
         },
         "el" : {
@@ -39741,8 +39741,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Swipe right"
+            "state" : "translated",
+            "value" : "nach rechts wischen"
           }
         },
         "el" : {
@@ -39943,8 +39943,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Swipe up"
+            "state" : "translated",
+            "value" : "nach oben wischen"
           }
         },
         "el" : {
@@ -40953,8 +40953,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This will delete all settings for the current device."
+            "state" : "translated",
+            "value" : "Dies wird alle Einstellungen für das aktuelle Gerät löschen."
           }
         },
         "el" : {
@@ -41155,8 +41155,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Threshold"
+            "state" : "translated",
+            "value" : "Schwellenwert"
           }
         },
         "el" : {
@@ -43990,8 +43990,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your configuration changes are now active."
+            "state" : "translated",
+            "value" : "Deine Konfigurationsänderungen sind nun aktiv."
           }
         },
         "el" : {
